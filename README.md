@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 ### 🌱 I'm currently learning 
- ![C#](https://img.shields.io/badge/C%23-gray?style=flat&color=%23512bd4 "C#") ![Redux](http://img.shields.io/badge/Redux-764abc?style=flat-square&logo=Redux "Redux")
+ ![C#](https://img.shields.io/badge/C%23-gray?style=flat&color=%23512bd4 "C#") ![Spring](http://img.shields.io/badge/Spring-gray?style=flat-square&logo=spring "Spring")
 
 ### 💬 Ask me about:
 ![HTML](http://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](http://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](http://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript) ![React](https://img.shields.io/badge/React-gray?style=flat-square&logo=react "React") ![NodeJS](http://img.shields.io/badge/NodeJs-gray?style=flat-square&logo=node.js) ![Python](http://img.shields.io/badge/Python-ffd343?style=flat-square&logo=python) ![JAVA](http://img.shields.io/badge/Core%20Java-cc3333?style=flat-square&logo=java) ![SQL](http://img.shields.io/badge/SQL-f7f7f7?style=flat-square&logo=mysql) ![MongoDB](http://img.shields.io/badge/MongoDB-gray?style=flat-square&logo=mongodb) 
