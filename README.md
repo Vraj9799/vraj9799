@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vraj Shah</h1>
-<h3 align="center">A passionate developer who is trying to Figure Out Stuff!</h3>
+<h3 align="center">I'm a software developer with a passion for coding and a love for debugging. I'm a team player who thrives in collaborative environments and always eager to take on new challenges. I'm always seeking new opportunities to level up my skills and make the digital world a better place, one line of code at a time.<br>Let's make some magic happen!!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vraj9799&label=Profile%20views&color=0e75b6&style=flat" alt="vraj9799" /> </p>
 
-- 🔭 I’m currently working on **improving my problem solving skills**
+- 🔭 I’m currently working on **Improving my problem solving skills**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, System Design**
 
-- 💬 Ask me about **C#, ASP.NET Core, SQL**
+- 💬 Ask me about **C#, ASP.NET Core, SQL, Java, Spring Boot, ReactJS**
 
 - 📫 How to reach me **vrajshah363@gmail.com**
 
